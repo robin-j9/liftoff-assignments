@@ -8,8 +8,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
 * [All Payment App wireframes together](https://github.com/robin-j9/liftoff-assignments/blob/master/P3-Project_Planning/Payment%20App%20-%20Wireframe.pdf)
 
 * [Admin Login](https://github.com/robin-j9/liftoff-assignments/blob/master/P3-Project_Planning/Payment%20App%20-%20Admin%20Login%20wireframe.pdf)
@@ -21,7 +19,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Payment App Trello Board](https://trello.com/b/hBHaE6uu/payment-automation-lc-project)
 
 ### Project Repo Link
 
