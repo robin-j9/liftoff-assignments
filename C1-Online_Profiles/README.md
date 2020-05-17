@@ -13,4 +13,4 @@ https://github.com/robin-j9
 https://www.linkedin.com/in/robin-jun/
 
 ### Resume
-https://github.com/robin-j9/liftoff-assignments/blob/master/C1-Online_Profiles/Robin%20Jun%20-%20LC%20RESUME%200.pdf
+https://github.com/robin-j9/liftoff-assignments/blob/master/C1-Online_Profiles/Robin%20Jun%20-%20RESUME.pdf
