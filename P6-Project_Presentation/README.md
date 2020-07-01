@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-[See PDF](https://github.com/robin-j9/liftoff-assignments/blob/master/P6-Project_Presentation/Robin%20Jun%20-%20Project%20Presentation.pdf)
+[PDF](https://github.com/robin-j9/liftoff-assignments/blob/master/P6-Project_Presentation/Robin%20Jun%20-%20Project%20Presentation.pdf)
